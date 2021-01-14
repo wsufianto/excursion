@@ -13,10 +13,31 @@ body {
 }
 
 header h1 {
+    padding: 30px;
     font-size: 50px;
     font-weight: normal;
 }
 
 a {
     color: aquamarine;
+    padding: 20px;
+}
+
+main h3 {
+    font-weight: 300;
+    font-size: 42px;
+    padding: 20px;
+}
+
+main p {
+    color: gray;
+    font-size: 21px;
+    padding: 15px;
+}
+
+footer p {
+    text-align: right;
+    color: gray;
+    padding: 20px 5px;
+    font-size: 21px;
 }
